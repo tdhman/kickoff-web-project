@@ -1,0 +1,28 @@
+{
+  "name": "basic-web-app",
+  "description": "A Skeleton project for an HTML static web app which include a basic HTML5 page structure, boostrap 4.0 and jQuery. The projet is also include gulpfile to make autobuild process.",
+  "main": "index.html",
+  "authors": [
+    "huemantd"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "seed",
+    "web"
+  ],
+  "homepage": "www.alteom.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "v4.0.0-alpha.3",
+    "font-awesome": "fontawesome#^4.6.3",
+    "tether": "^1.3.4"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "basic-web-app",
+  "version": "1.0.0",
+  "description": "A Skeleton project for an HTML static web app which include a basic HTML5 page structure, boostrap 4.0 and jQuery. The projet is also include gulpfile to make autobuild process.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/huemantd/basic-web-seed.git"
+  },
+  "keywords": [
+    "seed",
+    "web"
+  ],
+  "author": "huemantd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/huemantd/basic-web-seed/issues"
+  },
+  "homepage": "https://gitlab.com/huemantd/basic-web-seed#README",
+  "devDependencies": {
+    "async": "^2.0.1",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.3",
+    "jshint-stylish": "^2.2.1",
+    "moment": "^2.14.1",
+    "uglify": "^0.1.5"
+  }
+}
